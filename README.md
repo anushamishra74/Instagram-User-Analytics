@@ -3,4 +3,4 @@ The project involves working as a data analyst for Instagram's product team. The
 
 # How to do this Project?
 Create a Database: Start by running the provided commands to create the necessary database for the project.
-Perform Analysis: Utilize SQL to perform the analysis
+Perform Analysis: Utilize SQL to perform the analysis.
